@@ -1,0 +1,19 @@
+h1 {
+  color: grey;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+button {
+  border-width: 0;
+  border-radius: 4px;
+  background-color: gray;
+  color: white;
+  text-align: center;
+}
+body {
+  text-align: center;
+}
